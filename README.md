@@ -1,3 +1,4 @@
+## Environment Variables
 ```env
 ELASTIC_SEARCH_API_ENDPOINT=
 ELASTIC_SEARCH_API_KEY=
